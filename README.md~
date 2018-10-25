@@ -1,0 +1,5 @@
+# AutoTrainProgram
+
+The Arduino folder contains the .ino files for the micro-controllers (feeder, master, and slave). It also includes several files for testing purposes (for instance test_I2C to test the I2C connection). 
+
+An empty folder labelled 'experiments' should also be present in which the results will be saved.  
